@@ -46,3 +46,6 @@ Explanation
 2 + 3 = 5
 ~~~
 
+## Submission:
+
+![Link Submission](https://github.com/danipishinin/HackerRank/blob/main/algorithms/Solve_Me_First.py)
