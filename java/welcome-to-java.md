@@ -31,4 +31,4 @@ Hello, Java.
 
 ## Submission:
 
-![Link Submission](https://github.com/danipishinin/HackerRank/blob/main/java/welcome-to-java.java)
+[welcome-to-java.java](https://github.com/danipishinin/HackerRank/blob/main/java/welcome-to-java.java)
