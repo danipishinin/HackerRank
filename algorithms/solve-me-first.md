@@ -48,4 +48,4 @@ Explanation
 
 ## Submission:
 
-![Link Submission](https://github.com/danipishinin/HackerRank/blob/main/algorithms/Solve_Me_First.py)
+![Link Submission](https://github.com/danipishinin/HackerRank/blob/main/algorithms/solve-me-first.py)
