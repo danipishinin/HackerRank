@@ -33,4 +33,4 @@ Hello, World!
 
 ## Submission:
 
-[cpp-hello-world.cpp](https://github.com/danipishinin/HackerRank/blob/main/c++/hello-world.cpp)
+[hello-world.cpp](https://github.com/danipishinin/HackerRank/blob/main/c++/hello-world.cpp)
