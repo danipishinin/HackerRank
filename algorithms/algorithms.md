@@ -5,4 +5,5 @@
 2 - [Simple array sum](https://github.com/danipishinin/HackerRank/blob/main/algorithms/simple-array-sum.md) </br >
 3 - [Compare the Triplets](https://github.com/danipishinin/HackerRank/blob/main/algorithms/compare-the-triplets.md) </br >
 4 - [A Very Big Sum](https://github.com/danipishinin/HackerRank/blob/main/algorithms/a-very-big-sum.md) </br >
-5 - [Diagonal Difference](https://github.com/danipishinin/HackerRank/blob/main/algorithms/diagonal-difference.md)
+5 - [Diagonal Difference](https://github.com/danipishinin/HackerRank/blob/main/algorithms/diagonal-difference.md) </br >
+6 - [Plus minus](https://github.com/danipishinin/HackerRank/blob/main/algorithms/plus-minus.md)
