@@ -34,7 +34,7 @@ Resolução dos exercícios da Plataforma de Programação [HackerRank](https://
 
 ## ⚙️ Topics
 
-- [Algoritmos](https://github.com/danipishinin/HackerRank/tree/main/algorithms)
+- [Algoritmos](https://github.com/danipishinin/HackerRank/blob/main/algorithms/algorithms.md)
 - [Java](https://github.com/danipishinin/HackerRank/tree/main/java)
 - [Ruby](https://github.com/danipishinin/HackerRank/tree/main/ruby)
 - [C++](https://github.com/danipishinin/HackerRank/tree/main/c%2B%2B)
