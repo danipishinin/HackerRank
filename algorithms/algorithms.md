@@ -7,4 +7,5 @@
 4 - [A Very Big Sum](https://github.com/danipishinin/HackerRank/blob/main/algorithms/a-very-big-sum.md) </br >
 5 - [Diagonal Difference](https://github.com/danipishinin/HackerRank/blob/main/algorithms/diagonal-difference.md) </br >
 6 - [Plus minus](https://github.com/danipishinin/HackerRank/blob/main/algorithms/plus-minus.md) </br >
-7 - [Staircase](https://github.com/danipishinin/HackerRank/blob/main/algorithms/staircase.md)
+7 - [Staircase](https://github.com/danipishinin/HackerRank/blob/main/algorithms/staircase.md) </br >
+8 - [Min Max Sum](https://github.com/danipishinin/HackerRank/blob/main/algorithms/mini-max-sum.md)
