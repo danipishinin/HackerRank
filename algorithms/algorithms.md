@@ -11,3 +11,4 @@
 008 - [Min Max Sum](https://github.com/danipishinin/HackerRank/blob/main/algorithms/mini-max-sum.md) </br >
 009 - [Birthday Cake Candles](https://github.com/danipishinin/HackerRank/blob/main/algorithms/birthday-cake-candles.md) </br >
 010 - [Time Conversion](https://github.com/danipishinin/HackerRank/blob/main/algorithms/time-conversion.md) </br >
+011 - [Grading](https://github.com/danipishinin/HackerRank/blob/main/algorithms/grading.md) </br >
