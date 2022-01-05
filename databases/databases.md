@@ -7,3 +7,4 @@
 004 - [Relational Algebra - basics of sets 4](https://github.com/danipishinin/HackerRank/blob/main/databases/basics-of-sets-and-relational-algebra-4.md) </br >
 005 - [Relational Algebra - basics of sets 5](https://github.com/danipishinin/HackerRank/blob/main/databases/basics-of-sets-and-relational-algebra-5.md) </br >
 006 - [Relational Algebra - basics of sets 6](https://github.com/danipishinin/HackerRank/blob/main/databases/basics-of-sets-and-relational-algebra-6.md) </br >
+007 - [Relational Algebra - basics of sets 7](https://github.com/danipishinin/HackerRank/blob/main/databases/basics-of-sets-and-relational-algebra-7.md) </br >
