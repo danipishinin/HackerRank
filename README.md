@@ -38,6 +38,7 @@ Resolução dos exercícios da Plataforma de Programação [HackerRank](https://
 - [Java](https://github.com/danipishinin/HackerRank/blob/main/java/java.md)
 - [Ruby](https://github.com/danipishinin/HackerRank/blob/main/ruby/ruby.md)
 - [C++](https://github.com/danipishinin/HackerRank/blob/main/c%2B%2B/c%2B%2B.md)
+- [Databases](https://github.com/danipishinin/HackerRank/blob/main/databases/databases.md)
 
 ## 💪 Como contribuir para o projeto
 
