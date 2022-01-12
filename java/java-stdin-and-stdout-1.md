@@ -62,4 +62,4 @@ There are *3* lines of input, and each line contains a single integer.
 ~~~
 ## Submission:
 
-[welcome-to-java.java](https://github.com/danipishinin/HackerRank/blob/main/java/java-stdin-and-stdout-1.java)
+[java-stdin-and-stdout-1.java](https://github.com/danipishinin/HackerRank/blob/main/java/java-stdin-and-stdout-1.java)

@@ -39,6 +39,7 @@ Resolução dos exercícios da Plataforma de Programação [HackerRank](https://
 - [Ruby](https://github.com/danipishinin/HackerRank/blob/main/ruby/ruby.md)
 - [C++](https://github.com/danipishinin/HackerRank/blob/main/c%2B%2B/c%2B%2B.md)
 - [Databases](https://github.com/danipishinin/HackerRank/blob/main/databases/databases.md)
+- [Functional Programming](https://github.com/danipishinin/HackerRank/blob/main/functional_programming/functional_programming.md)
 
 ## 💪 Como contribuir para o projeto
 
