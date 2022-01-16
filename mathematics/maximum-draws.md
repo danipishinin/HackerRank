@@ -50,6 +50,6 @@ Each of the following **t** lines contains an integer **n**.
 
 - Case 2 : 2 colors of socks are in the drawer. The first two removed may not match. At least **3** socks need to be removed to guarantee success.
 
-## Submission:
+## Submission
 
-[maximum-draws.py](https://github.com/danipishinin/HackerRank/blob/main/mathematics/maximum-draws.p)
+[maximum-draws.py](https://github.com/danipishinin/HackerRank/blob/main/mathematics/maximum-draws.py)
