@@ -5,4 +5,5 @@
 3 - [Select all sql](https://github.com/danipishinin/HackerRank/blob/main/sql/select-all-sql.md) </br >
 4 - [Select by id](https://github.com/danipishinin/HackerRank/blob/main/sql/select-by-id.md) </br >
 5 - [Japanese cities attributes](https://github.com/danipishinin/HackerRank/blob/main/sql/japanese-cities-attributes.md) </br >
-5 - [Japanese cities name](https://github.com/danipishinin/HackerRank/blob/main/sql/japanese-cities-name.md) </br >
+6 - [Japanese cities name](https://github.com/danipishinin/HackerRank/blob/main/sql/japanese-cities-name.md) </br >
+7 - [Weather observation station 1](https://github.com/danipishinin/HackerRank/blob/main/sql/weather-observation-station-1.md) </br >
