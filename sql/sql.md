@@ -7,3 +7,4 @@
 5 - [Japanese cities attributes](https://github.com/danipishinin/HackerRank/blob/main/sql/japanese-cities-attributes.md) </br >
 6 - [Japanese cities name](https://github.com/danipishinin/HackerRank/blob/main/sql/japanese-cities-name.md) </br >
 7 - [Weather observation station 1](https://github.com/danipishinin/HackerRank/blob/main/sql/weather-observation-station-1.md) </br >
+8 - [Weather observation station 3](https://github.com/danipishinin/HackerRank/blob/main/sql/weather-observation-station-3.md) </br >
