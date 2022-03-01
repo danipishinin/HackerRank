@@ -31,17 +31,17 @@ The second line contains ***N*** space-separated integers that make up ***A***
 
 ### Sample Input 1
 
-~~~cpp
+~~~py
 4
 1 4 3 2
 ~~~
 
 ### Sample Output 1
 
-~~~cpp
+~~~py
 2 3 4 1
 ~~~
 
 ## Submission
 
-[arrays-ds.cpp](https://github.com/danipishinin/HackerRank/blob/main/mathematics/arrays-ds.cpp)
+[arrays-ds.py](https://github.com/danipishinin/HackerRank/blob/main/mathematics/arrays-ds.py)
