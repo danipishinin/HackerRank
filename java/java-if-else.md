@@ -60,4 +60,4 @@ Sample Case 1: **n = 24**
 
 ## Submission:
 
-[java-if-else.java](https://github.com/danipishinin/HackerRank/blob/main/java/java-if-else.java)
+[java-if-else.jar](https://github.com/danipishinin/HackerRank/blob/main/java/java-if-else.jar)
