@@ -45,6 +45,7 @@ Resolução dos exercícios da Plataforma de Programação [HackerRank](https://
 - [SQL](https://github.com/danipishinin/HackerRank/blob/main/sql/sql.md)
 - [Linux Shell](https://github.com/danipishinin/HackerRank/blob/main/linux_shell/linux_shell.md)
 - [Artificial Intelligence](https://github.com/danipishinin/HackerRank/blob/main/artificial_intelligence/artificial_intelligence.md)
+- [Python](https://github.com/danipishinin/HackerRank/blob/main/python/python.md)
 
 ## 💪 Como contribuir para o projeto
 
