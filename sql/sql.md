@@ -9,3 +9,4 @@
 7 - [Weather observation station 1](https://github.com/danipishinin/HackerRank/blob/main/sql/weather-observation-station-1.md) </br >
 8 - [Weather observation station 3](https://github.com/danipishinin/HackerRank/blob/main/sql/weather-observation-station-3.md) </br >
 9 - [Weather observation station 4](https://github.com/danipishinin/HackerRank/blob/main/sql/weather-observation-station-4.md) </br >
+10 - [Weather observation station 5](https://github.com/danipishinin/HackerRank/blob/main/sql/weather-observation-station-5.md) </br >
