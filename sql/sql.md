@@ -16,3 +16,4 @@
 14 - [Weather observation station 9](https://github.com/danipishinin/HackerRank/blob/main/sql/weather-observation-station-9.md) </br >
 15 - [Weather observation station 10](https://github.com/danipishinin/HackerRank/blob/main/sql/weather-observation-station-10.md) </br >
 16 - [Weather observation station 11](https://github.com/danipishinin/HackerRank/blob/main/sql/weather-observation-station-11.md) </br >
+17 - [Weather observation station 12](https://github.com/danipishinin/HackerRank/blob/main/sql/weather-observation-station-12.md) </br >
