@@ -1,0 +1,1 @@
+select distinct CITY from STATION where CITY RLIKE '^[AEIOU]' and CITY RLIKE '[aeiou]$'
