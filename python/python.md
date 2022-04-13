@@ -6,3 +6,4 @@
 004 - [python division](https://github.com/danipishinin/HackerRank/blob/main/python/python-division.md) </br >
 005 - [python loops](https://github.com/danipishinin/HackerRank/blob/main/python/python-loops.md) </br >
 006 - [write a function](https://github.com/danipishinin/HackerRank/blob/main/python/write-a-function.md) </br >
+006 - [python print](https://github.com/danipishinin/HackerRank/blob/main/python/python-print.md) </br >
