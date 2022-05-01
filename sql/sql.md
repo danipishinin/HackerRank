@@ -18,3 +18,4 @@
 16 - [Weather observation station 11](https://github.com/danipishinin/HackerRank/blob/main/sql/weather-observation-station-11.md) </br >
 17 - [Weather observation station 12](https://github.com/danipishinin/HackerRank/blob/main/sql/weather-observation-station-12.md) </br >
 18 - [More than 75 marks](https://github.com/danipishinin/HackerRank/blob/main/sql/more-than-75-marks.md) </br >
+19 - [Name of employees](https://github.com/danipishinin/HackerRank/blob/main/sql/name-of-employees.md) </br >
