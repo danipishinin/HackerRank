@@ -20,3 +20,4 @@
 18 - [More than 75 marks](https://github.com/danipishinin/HackerRank/blob/main/sql/more-than-75-marks.md) </br >
 19 - [Name of employees](https://github.com/danipishinin/HackerRank/blob/main/sql/name-of-employees.md) </br >
 20 - [salary of employees](https://github.com/danipishinin/HackerRank/blob/main/sql/salary-of-employees.md) </br >
+21 - [What type of triangle](https://github.com/danipishinin/HackerRank/blob/main/sql/what-type-of-triangle.md) </br >
