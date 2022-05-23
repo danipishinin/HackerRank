@@ -47,6 +47,7 @@ Resolução dos exercícios da Plataforma de Programação [HackerRank](https://
 - [Artificial Intelligence](https://github.com/danipishinin/HackerRank/blob/main/artificial_intelligence/artificial_intelligence.md)
 - [Python](https://github.com/danipishinin/HackerRank/blob/main/python/python.md)
 - [Regex](https://github.com/danipishinin/HackerRank/blob/main/regex/regex.md)
+- [C](https://github.com/danipishinin/HackerRank/blob/main/c/c.md)
 
 ## 💪 Como contribuir para o projeto
 
