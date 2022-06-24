@@ -21,4 +21,4 @@
 19 - [Name of employees](https://github.com/danipishinin/HackerRank/blob/main/sql/name-of-employees.md) </br >
 20 - [salary of employees](https://github.com/danipishinin/HackerRank/blob/main/sql/salary-of-employees.md) </br >
 21 - [What type of triangle](https://github.com/danipishinin/HackerRank/blob/main/sql/what-type-of-triangle.md) </br >
-22 - [What type of triangle](https://github.com/danipishinin/HackerRank/blob/main/sql/what-type-of-triangle.md) </br >
+22 - [The Pads](https://github.com/danipishinin/HackerRank/blob/main/sql/the-pads.md) </br >

@@ -1,0 +1,3 @@
+SELECT CONCAT(
+    Name, 
+)
