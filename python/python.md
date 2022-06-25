@@ -8,3 +8,4 @@
 06 - [write a function](https://github.com/danipishinin/HackerRank/blob/main/python/write-a-function.md) </br >
 07 - [python print](https://github.com/danipishinin/HackerRank/blob/main/python/python-print.md) </br >
 08 - [list comprehensions](https://github.com/danipishinin/HackerRank/blob/main/python/list-comprehensions.md) </br >
+09 - [find second maximum number in a list](https://github.com/danipishinin/HackerRank/blob/main/python/find-second-maximum-number-in-a-list.md) </br >
