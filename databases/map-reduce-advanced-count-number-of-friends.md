@@ -61,4 +61,4 @@ We have computed the number of friends for each person via the Mapper and Reduce
 
 ## Submission:
 
-[map-reduce-advanced-count-number-of-friends.txt](https://github.com/danipishinin/HackerRank/blob/main/databases/map-reduce-advanced-count-number-of-friends.txt)
+[map-reduce-advanced-count-number-of-friends.py](https://github.com/danipishinin/HackerRank/blob/main/databases/map-reduce-advanced-count-number-of-friends.py)
