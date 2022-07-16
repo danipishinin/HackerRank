@@ -7,3 +7,4 @@
 3 - [Java if else](https://github.com/danipishinin/HackerRank/blob/main/java/java-if-else.md) </br >
 4 - [Java Stdin Stdout](https://github.com/danipishinin/HackerRank/blob/main/java/java-stdin-stdout.md) </br >
 5 - [Java Output formatting](https://github.com/danipishinin/HackerRank/blob/main/java/java-output-formatting.md) </br >
+5 - [Java Loops I](https://github.com/danipishinin/HackerRank/blob/main/java/java-loops-i.md) </br >
