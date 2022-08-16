@@ -24,4 +24,4 @@ Here **x** denotes any word character and **X** denotes any non-word character.
 
 ## Submission:
 
-[matching-whitespace-non-whitespace-character.py](https://github.com/danipishinin/HackerRank/blob/main/regex/matching-word-non-word.py)
+[matching-word-non-word.py](https://github.com/danipishinin/HackerRank/blob/main/regex/matching-word-non-word.py)
