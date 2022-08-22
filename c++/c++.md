@@ -4,4 +4,6 @@
 2 - [Input and Output](https://github.com/danipishinin/HackerRank/blob/main/c%2B%2B/input-and-output.md) </br >
 3 - [Basic Data Types](https://github.com/danipishinin/HackerRank/blob/main/c%2B%2B/c-tutorial-basic-data-types.md) </br >
 4 - [Conditional if else](https://github.com/danipishinin/HackerRank/blob/main/c%2B%2B/c-tutorial-conditional-if-else.md) </br >
-5 - [For loop](https://github.com/danipishinin/HackerRank/blob/main/c%2B%2B/c-tutorial-for-loop.md)
+5 - [For loop](https://github.com/danipishinin/HackerRank/blob/main/c%2B%2B/c-tutorial-for-loop.md) </br >
+6 - [functions](https://github.com/danipishinin/HackerRank/blob/main/c%2B%2B/c-tutorial-functions.md) </br >
+7 - [pointer](https://github.com/danipishinin/HackerRank/blob/main/c%2B%2B/c-tutorial-pointer.md) </br >
