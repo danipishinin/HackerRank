@@ -10,3 +10,4 @@
 08 - [list comprehensions](https://github.com/danipishinin/HackerRank/blob/main/python/list-comprehensions.md) </br >
 09 - [find second maximum number in a list](https://github.com/danipishinin/HackerRank/blob/main/python/find-second-maximum-number-in-a-list.md) </br >
 10 - [nested list](https://github.com/danipishinin/HackerRank/blob/main/python/nested-list.md) </br >
+10 - [finding the percentage](https://github.com/danipishinin/HackerRank/blob/main/python/finding-the-percentage.md) </br >
