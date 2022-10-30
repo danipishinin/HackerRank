@@ -9,3 +9,4 @@
 006 - [Relational Algebra - basics of sets 6](https://github.com/danipishinin/HackerRank/blob/main/databases/basics-of-sets-and-relational-algebra-6.md) </br >
 007 - [Relational Algebra - basics of sets 7](https://github.com/danipishinin/HackerRank/blob/main/databases/basics-of-sets-and-relational-algebra-7.md) </br >
 008 - [Map reduce advanced count number of friends](https://github.com/danipishinin/HackerRank/blob/main/databases/map-reduce-advanced-count-number-of-friends.md) </br >
+009 - [database normalization 1 1nf](https://github.com/danipishinin/HackerRank/blob/main/databases/database-normalization-1-1nf.md) </br >
