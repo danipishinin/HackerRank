@@ -9,3 +9,4 @@
 5 - [Java Output formatting](https://github.com/danipishinin/HackerRank/blob/main/java/java-output-formatting.md) </br >
 6 - [Java Loops I](https://github.com/danipishinin/HackerRank/blob/main/java/java-loops-i.md) </br >
 7 - [Java Loops II](https://github.com/danipishinin/HackerRank/blob/main/java/java-loops-ii.md) </br >
+8 - [Java Datatypes](https://github.com/danipishinin/HackerRank/blob/main/java/java-datatypes.md) </br >
