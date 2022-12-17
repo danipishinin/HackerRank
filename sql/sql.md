@@ -23,3 +23,4 @@
 21 - [What type of triangle](https://github.com/danipishinin/HackerRank/blob/main/sql/what-type-of-triangle.md) </br >
 22 - [The Pads](https://github.com/danipishinin/HackerRank/blob/main/sql/the-pads.md) </br >
 23 - [Occupations](https://github.com/danipishinin/HackerRank/blob/main/sql/occupations.md) </br >
+24 - [Binary search three](https://github.com/danipishinin/HackerRank/blob/main/sql/binary-search-three.md) </br >
